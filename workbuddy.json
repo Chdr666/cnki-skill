@@ -1,0 +1,7 @@
+{
+  "display_name": "中国知网文献检索",
+  "display_name_en": "CNKI Literature Search",
+  "description_zh": "检索真实的中国知网（CNKI）期刊论文，返回可核验的标题、期刊、年份和可打开的 cnki.com.cn 链接，避免编造中文参考文献。",
+  "description_en": "Search real CNKI Chinese journal papers with verifiable titles and openable cnki.com.cn links instead of invented references.",
+  "icon": "_icon.svg"
+}
